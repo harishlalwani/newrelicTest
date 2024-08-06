@@ -1,0 +1,4 @@
+Create a small React application that fetches and displays a list of items from an API (pretend an api exists at localhost:3000/api). 
+- Users should be able to add a new item to the list
+- Users should be able to sort the list
+- Users should be able to remove items from the list
